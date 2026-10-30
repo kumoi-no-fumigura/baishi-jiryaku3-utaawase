@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/baishi-jiryaku3-utaawase",
  "yomi": "ばいしないしんのうけうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（菊合）",
+  "era": "治暦年間（1065〜1069）",
+  "author": "主催 禖子内親王",
+  "desc": "六条斎院禖子内親王のもとで、九月九日に女房たちが菊を一本ずつ植えて御覧に入れ、その菊を詠んで番えた歌合。五番が残る。"
+ },
  "editions": [
   {
    "pid": "1879502",
